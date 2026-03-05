@@ -52,9 +52,7 @@ The design therefore follows a **systems engineering methodology** consisting of
 | Waste & Emergency Systems | Waste processing and emergency reserves |
 | Control & Monitoring | Sensors, control unit, and system supervision |
 ## Physical Configuration Layout
-
-![System Layout](images/life_support_layout.png)
-life_support_configuration.png 
+![Life Support System Configuration](images/life_support_configuration.png)
 he subsystem layout is organised into four functional zones:
 	1.	Atmospheric Management
 	2.	Water Management
@@ -69,6 +67,8 @@ Emergency oxygen and water buffers are separated to prevent cascading failures.
 
 A central maintenance corridor provides 1 m access clearance for inspection and maintenance.
 ## System Requirements
+
+![North Atlantic Habitat System Overview](images/habitat_system_overview.png)
 
 Key operational requirements were derived from human physiological limits and habitat operational constraints.
 
