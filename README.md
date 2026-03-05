@@ -42,6 +42,7 @@ The design therefore follows a **systems engineering methodology** consisting of
    ## Life Support Functional Architecture
 
 ![Life Support Architecture](images/life_support_architecture.png)
+
 ## Life Support System Subsystems
 
 | Subsystem | Function |
