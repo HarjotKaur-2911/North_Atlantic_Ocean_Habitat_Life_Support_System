@@ -42,6 +42,7 @@ The design therefore follows a **systems engineering methodology** consisting of
    ## Life Support Functional Architecture
 
 ![Life Support Architecture](images/life_support_architecture.png)
+life_support_functional_architecture.png
 
 ## Life Support System Subsystems
 
@@ -54,6 +55,7 @@ The design therefore follows a **systems engineering methodology** consisting of
 ## Physical Configuration Layout
 
 ![System Layout](images/life_support_layout.png)
+life_support_configuration.png 
 he subsystem layout is organised into four functional zones:
 	1.	Atmospheric Management
 	2.	Water Management
@@ -215,6 +217,7 @@ Materials were selected based on corrosion resistance, durability, and lifecycle
 | HDPE | Water storage tanks | Chemical resistance and low weight |
 | Aluminium 6061-T6 | Control structures | High strength-to-weight ratio |
 | Titanium alloy | Critical seawater components | Exceptional corrosion resistance |
+habitat_system_overview.png
 ## Lifecycle Environmental Analysis
 
 Using **CES EduPack** data, the estimated material impact is:
@@ -256,6 +259,7 @@ The project contributes to multiple **UN Sustainable Development Goals (SDGs):**
 | SDG 14 | Protection of marine ecosystems |
 
 ![SDG Diagram](images/sdg_diagram.png)
+habitat_system_overview.png
 ## Key Engineering Outcomes
 
 The final design demonstrates:
