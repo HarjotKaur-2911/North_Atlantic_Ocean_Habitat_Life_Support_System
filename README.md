@@ -1,5 +1,5 @@
 # North_Atlantic_Ocean_Habitat_Life_Support_System
-# North Atlantic Ocean Habitat – Life Support System
+
 
 Design of a closed-loop life support system capable of sustaining a ten-person underwater habitat operating in the North Atlantic Ocean.
 
