@@ -38,11 +38,10 @@ The design therefore follows a **systems engineering methodology** consisting of
 4. Material selection and lifecycle analysis  
 5. Safety and emergency buffering  
 6. Physical configuration design
+     ## Life Support Functional Architecture
+   ![Life Support Functional Architecture](images/life_support_functional_architecture.png)
    
-   ## Life Support Functional Architecture
 
-![Life Support Architecture](images/life_support_architecture.png)
-life_support_functional_architecture.png
 
 ## Life Support System Subsystems
 
