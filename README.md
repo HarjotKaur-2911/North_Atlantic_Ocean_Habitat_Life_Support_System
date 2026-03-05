@@ -80,7 +80,9 @@ Key operational requirements were derived from human physiological limits and ha
 | Oxygen production | ≥ 10 kg/day | Metabolic demand |
 | Potable water production | ≥ 200 L/day | Drinking, hygiene, electrolysis |
 | Emergency autonomy | 48 hours | System failure survivability |
+
 ![Life Support System Layout](images/life_support_layout_top_view.png)
+
 Atmospheric System Design
 
 Oxygen Generation
