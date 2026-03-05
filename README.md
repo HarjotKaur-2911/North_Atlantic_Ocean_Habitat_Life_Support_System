@@ -38,10 +38,19 @@ The design therefore follows a **systems engineering methodology** consisting of
 4. Material selection and lifecycle analysis  
 5. Safety and emergency buffering  
 6. Physical configuration design
+
      ## Life Support Functional Architecture
    ![Life Support Functional Architecture](images/life_support_functional_architecture.png)
    
+## Habitat Structural Concept (CAD Model)
 
+![North Atlantic Ocean Habitat CAD Model](images/habitat_cad_model.png)
+
+The CAD model illustrates the conceptual modular architecture of the North Atlantic Ocean Habitat. The structure consists of multiple cylindrical pressure modules connected through central transition joints, forming a modular underwater station capable of supporting long-duration human habitation.
+
+Each module is mounted on seabed support structures to provide stability under ocean currents and wave loading. The cylindrical pressure vessel design enables efficient distribution of external hydrostatic pressure while maximising internal habitable volume.
+
+The modular configuration allows separation of key functional areas including life support systems, crew habitation, research space, and equipment modules.
 
 ## Life Support System Subsystems
 
